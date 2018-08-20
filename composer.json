@@ -2,6 +2,7 @@
     "name": "zankatkalpesh/zkphp",
     "description": "ZKPHP : Rapid Development Framework",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "zankatkalpesh",
